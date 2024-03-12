@@ -1,0 +1,17 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "trello but just the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
